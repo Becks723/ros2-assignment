@@ -1,0 +1,4 @@
+/pubnode:
+  ros__parameters:
+    transmit_msg: "Hello becks723!"
+    transmit_interval: 5
